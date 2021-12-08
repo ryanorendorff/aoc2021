@@ -1,0 +1,12 @@
+package advent-of-code
+
+authors    = "Ryan Orendorff"
+sourcedir  = "src"
+version    = 0.0.1
+depends    = base
+           , contrib
+
+main = AOC.Main
+executable = aoc
+
+-- modules = AOC.Day.One
