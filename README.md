@@ -1,7 +1,7 @@
 Advent of Code 2021 -- In Idris 2!
 ==================================
 
-[![Builds and Runs](https://github.com/ryanorendorff/aoc2021/workflows/Builds%20and%20Runs/badge.svg)][builds-and-runs]
+![Builds and Runs](https://github.com/ryanorendorff/aoc2021/workflows/Builds%20and%20Runs/badge.svg)
 
 This is my attempt to learn a new language through a set of problems. I was
 mostly attempting to learn Idris 2 and how to set it up through Nix over
