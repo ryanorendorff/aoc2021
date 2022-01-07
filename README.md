@@ -16,3 +16,6 @@ nix-build release.nix
 and then the executable should be able to be run through `./result/bin/aoc`.
 Note that this executable can be run from anywhere; the inputs are copied to the
 nix store to make sure that the executable is deterministically run.
+
+If you would like to see the results from running on the inputs, you can view
+the current build workflow and check the `Run ./result/bin/aoc` stage.
