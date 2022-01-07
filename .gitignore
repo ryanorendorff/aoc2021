@@ -1,10 +1,10 @@
 ### Custom ###
 
 # Nix
-result/
+result
 
 # Idris build
-build/
+build
 
 # Created by https://www.toptal.com/developers/gitignore/api/idris,emacs,vim,visualstudiocode,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=idris,emacs,vim,visualstudiocode,macos
