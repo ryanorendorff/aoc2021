@@ -11,4 +11,4 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: nix-build release.nix
-    - run: ./results/bin/aoc
+    - run: ./result/bin/aoc
